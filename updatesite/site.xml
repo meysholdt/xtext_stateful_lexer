@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.itemis.statefullexer_1.0.0.201311180932.jar" id="de.itemis.statefullexer" version="1.0.0.201311180932">
+   <feature url="features/de.itemis.statefullexer_1.0.0.201311181109.jar" id="de.itemis.statefullexer" version="1.0.0.201311181109">
       <category name="Xtext Stateful Lexer Support"/>
    </feature>
    <category-def name="Xtext Stateful Lexer Support" label="Xtext Stateful Lexer Support"/>
